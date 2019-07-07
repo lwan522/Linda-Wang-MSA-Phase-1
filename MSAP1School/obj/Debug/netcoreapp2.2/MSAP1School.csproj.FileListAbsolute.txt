@@ -1,0 +1,14 @@
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\bin\Debug\netcoreapp2.2\MSAP1School.deps.json
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\bin\Debug\netcoreapp2.2\MSAP1School.runtimeconfig.json
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\bin\Debug\netcoreapp2.2\MSAP1School.runtimeconfig.dev.json
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\bin\Debug\netcoreapp2.2\MSAP1School.dll
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.csprojAssemblyReference.cache
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.csproj.CoreCompileInputs.cache
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.RazorAssemblyInfo.cache
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.RazorAssemblyInfo.cs
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.AssemblyInfoInputs.cache
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.AssemblyInfo.cs
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.RazorTargetAssemblyInfo.cache
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\bin\Debug\netcoreapp2.2\MSAP1School.pdb
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.dll
+C:\Users\fzyan\source\repos\MSAP1School\MSAP1School\obj\Debug\netcoreapp2.2\MSAP1School.pdb
